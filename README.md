@@ -92,7 +92,7 @@
 
 ატვირთეთ ეს სურათი თქვენს GitHub რეპოზიტორიაში, კოდის ფაილებთან ერთად.
 
-ჩასვით სურათი README.md ფაილში.
+ჩასვით სურათი README.md ფაილში. ![Design Preview](photos/preview.png)
 
 ✅ მიღების კრიტერიუმები (Acceptance Criteria)
 
